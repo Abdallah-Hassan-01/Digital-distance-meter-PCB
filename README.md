@@ -1,4 +1,4 @@
-# Digital Distance Meter PCB
+# Arduino HC-SR04 Distance Meter PCB
 
 ## Overview
 A PCB-based digital distance meter designed using Altium Designer.
